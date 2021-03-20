@@ -2,7 +2,7 @@
 	"Photo": {
 		"id": "int",
 		"eventId": "Event",
-		"desc": "some lengthy description of this event",
+		"desc": "string",
 		"url": "sring",
 		"thumbnailUrl": "string",
 		"date": "date"
