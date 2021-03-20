@@ -16,6 +16,6 @@
 		"url": "sring",
 		"keywords": "string",
 		"date": "date",
-		"photos": Photo[]"
+		"photos": "Photo[]"
 	}
 }
