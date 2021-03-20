@@ -1,12 +1,4 @@
 { 
-	"Photo": {
-		"id": "int",
-		"eventId": "Event",
-		"desc": "string",
-		"url": "sring",
-		"thumbnailUrl": "string",
-		"date": "date"
-	},
 	"Event": {
 		"id": "int",
 		"villageLocationId": "int",
@@ -17,5 +9,14 @@
 		"keywords": "string",
 		"date": "date",
 		"photos": "Photo[]"
+	},
+	"Photo": {
+		"id": "int",
+		"eventId": "Event",
+		"desc": "string",
+		"url": "sring",
+		"thumbnailUrl": "string",
+		"date": "date"
 	}
+
 }
