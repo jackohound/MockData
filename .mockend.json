@@ -1,8 +1,8 @@
-{
+{ 
 	"Photo": {
 		"id": "int",
-		"eventId": "int",
-		"desc": "string",
+		"eventId": "Event",
+		"desc": "some lengthy description of this event",
 		"url": "sring",
 		"thumbnailUrl": "string",
 		"date": "date"
