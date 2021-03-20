@@ -1,0 +1,20 @@
+{
+	"EventPhoto": {
+		"id": "int",
+		"eventId": "int",
+		"desc": "string",
+		"url": "sring",
+		"thumbnailUrl": "string",
+		"date": "string"
+	},
+	"Event": {
+		"id": "int",
+		"villageLocationId": "int",
+		"userId": "int",
+		"shortDesc": "string",
+		"longDesc": "string",
+		"url": "sring",
+		"keywords": "string",
+		"dateTimeRecurrance": "string"
+	}
+}
