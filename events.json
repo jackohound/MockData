@@ -1,13 +1,15 @@
 [
   {
-    "id": "6056119923623e6b83bfbc90",
+    "id": "605fcdc3af53709447dbdf47",
     "index": 0,
-    "guid": "e4636ce4-d9d1-4b17-8e85-c0036b0de7e7",
-    "time": "Sunday, March 21, 2021 3:41 AM",
-    "recurrance": "bi-weekly",
-    "endDate": "Thursday, April 14, 2022 3:58 AM",
+    "guid": "61e0ecee-51eb-4b9e-a274-a2689d228029",
+    "time": "2021-04-01T15:13:25+00:00",
+    "recurrance": "daily",
+    "duration": "30 minutes",
+    "cost": "free",
+    "endDate": "2021-11-03T04:51:04+00:00",
     "isActive": true,
-    "photoUrl": "http://img.thevillages.com/Attachments/Unit/09-2017/Alden Bungalows.jpg",
+    "photoUrl": "http://img.thevillages.com/Attachments/Unit/09-2017/Dunedin%20Pool_1.jpg",
     "photos": [
       {
         "id": 0,
@@ -24,49 +26,51 @@
     ],
     "webUrl": "http://www.google.com",
     "owner": {
-      "id": "6056119946ba59cfdcc32934",
-      "first": "May",
-      "last": "Rosario"
+      "id": "605fcdc30f37bf967317e46c",
+      "first": "Bridgette",
+      "last": "Nichols"
     },
-    "contact": "may.rosario@darwinium.ca",
-    "shortDesc": "fugiat sit quis veniam aliquip cupidatat",
-    "longDesc": "Ea cupidatat commodo aliqua aute. Nostrud magna commodo nulla aliqua elit adipisicing. Ea pariatur non nulla enim ad laborum sit Lorem pariatur quis aute voluptate. Ea nisi est amet Lorem pariatur dolor irure cupidatat cillum officia aliquip aute aliqua. Cupidatat ipsum officia exercitation cupidatat ullamco consectetur magna do. Commodo aliqua incididunt ea pariatur sunt proident quis culpa excepteur eu laborum ipsum ex ex.",
+    "contact": "undefined",
+    "shortDesc": "labore Lorem minim enim qui irure",
+    "longDesc": "Reprehenderit enim non cupidatat ea est dolore esse incididunt exercitation aliqua ullamco amet consectetur. Ut non voluptate amet velit. Eu nostrud eu incididunt elit exercitation commodo mollit sint nostrud veniam proident ut. Magna ullamco duis elit eu ex fugiat eu. Esse amet velit minim id sit voluptate dolor.",
     "keywords": [
-      "incididunt",
-      "qui",
-      "eu",
-      "consequat",
-      "pariatur"
+      "in",
+      "ut",
+      "magna",
+      "excepteur",
+      "aute"
     ],
-    "city": "Hendersonville",
-    "state": "Alaska",
-    "address": "679 Coleridge Street, Hendersonville, Alaska, 5718",
-    "latitude": "23.049737",
-    "longitude": "-60.922743",
+    "city": "Bangor",
+    "state": "South Carolina",
+    "address": "100 North Beach Blvd, North Myrtle Beach, SC 21003",
+    "latitude": "75.007949",
+    "longitude": "-40.067421",
     "attendees": [
       {
         "id": 0,
-        "name": "Hammond Petersen"
+        "name": "Mayer Barrett"
       },
       {
         "id": 1,
-        "name": "Atkinson Jones"
+        "name": "Barr Perez"
       },
       {
         "id": 2,
-        "name": "Miriam Barrera"
+        "name": "Marie Wise"
       }
     ]
   },
   {
-    "id": "6056119949fc06edff0526fb",
+    "id": "605fcdc3c0131c6b2045ed31",
     "index": 1,
-    "guid": "9bdc7826-93b2-4c28-af57-110723889ebb",
-    "time": "Tuesday, April 13, 2021 11:14 AM",
-    "recurrance": "weekly",
-    "endDate": "Sunday, February 6, 2022 3:31 AM",
-    "isActive": false,
-    "photoUrl": "http://img.thevillages.com/Attachments/CommLease/01-2017/771%20-%20ABM.jpg",
+    "guid": "27e769bd-3d99-4eb3-8fef-4d88aaa5985b",
+    "time": "2021-04-13T04:08:26+00:00",
+    "recurrance": "daily",
+    "duration": "1 hours",
+    "cost": "$2.50 per person",
+    "endDate": "2021-07-07T07:45:18+00:00",
+    "isActive": true,
+    "photoUrl": "http://img.thevillages.com/Attachments/Unit/09-2017/Antrim%20Dells_1.jpg",
     "photos": [
       {
         "id": 0,
@@ -83,49 +87,51 @@
     ],
     "webUrl": "http://www.google.com",
     "owner": {
-      "id": "60561199837ab5eae4746312",
-      "first": "Jacobson",
-      "last": "Peterson"
+      "id": "605fcdc3fe3e5a2694ecb122",
+      "first": "Jaclyn",
+      "last": "Dunlap"
     },
-    "contact": "jacobson.peterson@plutorque.tv",
-    "shortDesc": "magna laborum excepteur proident irure voluptate",
-    "longDesc": "Sit veniam tempor minim ex esse deserunt excepteur aute mollit nisi ad anim. Culpa eiusmod est enim ad amet. Minim cillum ad tempor qui proident nulla et sint dolore esse laborum adipisicing nisi. Aliquip reprehenderit ullamco sint id cupidatat irure laboris quis id esse. Do officia nostrud sit qui laboris nostrud quis consectetur voluptate. In veniam elit dolor nisi aliquip reprehenderit ea dolore minim amet Lorem.",
+    "contact": "undefined",
+    "shortDesc": "nostrud aliquip consectetur incididunt amet veniam",
+    "longDesc": "Nisi voluptate reprehenderit elit cupidatat enim. Occaecat nostrud ex eiusmod labore magna ea. Eiusmod et aute excepteur qui incididunt excepteur nisi id. Aute nostrud amet proident deserunt aliquip commodo magna. In sint id incididunt Lorem id ut. Ullamco laborum cillum qui id id exercitation tempor laborum do ea.",
     "keywords": [
-      "dolor",
-      "sunt",
-      "proident",
-      "in",
+      "duis",
+      "irure",
+      "non",
+      "quis",
       "officia"
     ],
-    "city": "Enetai",
-    "state": "Wyoming",
-    "address": "618 Portal Street, Enetai, Wyoming, 5358",
-    "latitude": "64.752754",
-    "longitude": "70.215132",
+    "city": "Grayhawk",
+    "state": "Illinois",
+    "address": "100 North Beach Blvd, North Myrtle Beach, SC 21003",
+    "latitude": "-39.437181",
+    "longitude": "77.354322",
     "attendees": [
       {
         "id": 0,
-        "name": "Lee Barnett"
+        "name": "Decker Bradshaw"
       },
       {
         "id": 1,
-        "name": "Priscilla Ortiz"
+        "name": "Hannah Reyes"
       },
       {
         "id": 2,
-        "name": "Peck Walton"
+        "name": "Santana Conrad"
       }
     ]
   },
   {
-    "id": "60561199965080f7a7c7d5c2",
+    "id": "605fcdc3b7587c840a9af082",
     "index": 2,
-    "guid": "95d68c0e-faa1-4aec-ae17-d6564ec78289",
-    "time": "Wednesday, April 14, 2021 11:46 AM",
+    "guid": "d310ac7a-3c8f-4fc1-83ea-54df0cb4ec7e",
+    "time": "2021-03-31T15:18:24+00:00",
     "recurrance": "weekly",
-    "endDate": "Wednesday, March 2, 2022 8:21 PM",
+    "duration": "90 minutes",
+    "cost": "free",
+    "endDate": "2021-10-02T11:44:18+00:00",
     "isActive": false,
-    "photoUrl": "http://img.thevillages.com/Attachments/Unit/09-2017/Antrim Dells_1.jpg",
+    "photoUrl": "http://img.thevillages.com/Attachments/CommLease/01-2017/771%20-%20ABM.jpg",
     "photos": [
       {
         "id": 0,
@@ -142,47 +148,49 @@
     ],
     "webUrl": "http://www.google.com",
     "owner": {
-      "id": "605611992894542e08bbc151",
-      "first": "Beverly",
-      "last": "Raymond"
+      "id": "605fcdc3e151425da1cef858",
+      "first": "Guy",
+      "last": "Henry"
     },
-    "contact": "beverly.raymond@callflex.com",
-    "shortDesc": "sunt eiusmod dolor est enim consectetur",
-    "longDesc": "Consequat officia sit dolor duis enim officia occaecat incididunt. Laborum non cillum dolore do. Fugiat mollit ipsum velit irure in sint veniam anim elit. Esse deserunt Lorem ad ad in ipsum deserunt ullamco ut sint voluptate amet quis duis. Ipsum quis excepteur sunt cupidatat dolore aute est non mollit tempor aliqua eiusmod incididunt.",
+    "contact": "undefined",
+    "shortDesc": "laboris esse veniam nisi id consequat",
+    "longDesc": "Incididunt eiusmod minim aliqua consequat esse aliqua aute dolor id aute amet. Tempor sit cillum nulla nisi dolore aliquip nisi eiusmod labore veniam sunt anim sint qui. Do qui labore sit do nisi fugiat reprehenderit reprehenderit laboris ex ipsum reprehenderit est. Irure irure deserunt pariatur pariatur. Commodo ex pariatur mollit reprehenderit ea. Nulla ut minim in est esse occaecat.",
     "keywords": [
-      "eiusmod",
-      "enim",
-      "anim",
-      "mollit",
-      "consequat"
+      "aliqua",
+      "do",
+      "labore",
+      "voluptate",
+      "tempor"
     ],
-    "city": "Tryon",
-    "state": "Maryland",
-    "address": "667 Grove Street, Tryon, Maryland, 2940",
-    "latitude": "-61.508897",
-    "longitude": "-95.289055",
+    "city": "Bend",
+    "state": "Pennsylvania",
+    "address": "100 North Beach Blvd, North Myrtle Beach, SC 21003",
+    "latitude": "-61.246962",
+    "longitude": "-75.586624",
     "attendees": [
       {
         "id": 0,
-        "name": "Tyson Ortega"
+        "name": "Albert Snyder"
       },
       {
         "id": 1,
-        "name": "Middleton Dotson"
+        "name": "Sutton Hardin"
       },
       {
         "id": 2,
-        "name": "Savannah Fernandez"
+        "name": "Ora Cobb"
       }
     ]
   },
   {
-    "id": "605611993a793fa3093f9eb8",
+    "id": "605fcdc3badcc2ac6270ad07",
     "index": 3,
-    "guid": "1f30eb8c-8539-462e-a181-e8e5fc15411b",
-    "time": "Saturday, March 27, 2021 1:47 AM",
-    "recurrance": "weekly",
-    "endDate": "Saturday, May 1, 2021 4:42 AM",
+    "guid": "8020cc94-a1d5-4a5d-91f9-7858c24131d3",
+    "time": "2021-03-30T14:21:51+00:00",
+    "recurrance": "daily",
+    "duration": "60 minutes",
+    "cost": "$2.50 per person",
+    "endDate": "2022-12-23T02:24:32+00:00",
     "isActive": true,
     "photoUrl": "http://img.thevillages.com/Attachments/Unit/05-2017/NRC%20-%20Amelia_1.jpg",
     "photos": [
@@ -201,49 +209,51 @@
     ],
     "webUrl": "http://www.google.com",
     "owner": {
-      "id": "605611998e1c6d91e26c1dd2",
-      "first": "Singleton",
-      "last": "Cervantes"
+      "id": "605fcdc30929db54626e159d",
+      "first": "Oneal",
+      "last": "Hawkins"
     },
-    "contact": "singleton.cervantes@incubus.io",
-    "shortDesc": "labore irure eiusmod reprehenderit sit Lorem",
-    "longDesc": "Ipsum ullamco adipisicing dolore anim magna nostrud. Pariatur dolor proident qui ullamco culpa incididunt consequat. Sint excepteur anim Lorem labore elit non cupidatat proident. Laborum irure do cillum reprehenderit sit fugiat est fugiat enim sit non laborum.",
+    "contact": "undefined",
+    "shortDesc": "velit eu commodo ipsum culpa id",
+    "longDesc": "Sunt duis ex enim incididunt aliqua ex ullamco. Lorem ullamco nostrud fugiat aliquip ipsum elit ut ad esse. Eu dolore incididunt aliquip proident nisi cupidatat non magna tempor.",
     "keywords": [
-      "quis",
+      "sint",
+      "nulla",
+      "est",
       "sunt",
-      "et",
-      "exercitation",
-      "velit"
+      "in"
     ],
-    "city": "Farmers",
-    "state": "Georgia",
-    "address": "247 Will Place, Farmers, Georgia, 9898",
-    "latitude": "17.17022",
-    "longitude": "27.707609",
+    "city": "Kidder",
+    "state": "Northern Mariana Islands",
+    "address": "100 North Beach Blvd, North Myrtle Beach, SC 21003",
+    "latitude": "7.318226",
+    "longitude": "2.535715",
     "attendees": [
       {
         "id": 0,
-        "name": "Jordan Winters"
+        "name": "Stewart Espinoza"
       },
       {
         "id": 1,
-        "name": "Deena Pennington"
+        "name": "Haynes Hendricks"
       },
       {
         "id": 2,
-        "name": "Andrews Cabrera"
+        "name": "Hillary Garcia"
       }
     ]
   },
   {
-    "id": "605611995c71628775836d35",
+    "id": "605fcdc37d1862b0a60442b9",
     "index": 4,
-    "guid": "7e2640ea-30d0-4ced-900e-4030f8495c86",
-    "time": "Monday, March 29, 2021 10:48 AM",
-    "recurrance": "bi-weekly",
-    "endDate": "Wednesday, October 5, 2022 9:14 PM",
-    "isActive": true,
-    "photoUrl": "http://img.thevillages.com/Attachments/Unit/05-2017/NRC%20-%20Amelia_1.jpg",
+    "guid": "cc5a5290-6e03-481c-80c7-886363823cb3",
+    "time": "2021-03-31T15:08:59+00:00",
+    "recurrance": "monthly",
+    "duration": "1 hours",
+    "cost": "$2.50 per person",
+    "endDate": "2022-06-22T18:00:38+00:00",
+    "isActive": false,
+    "photoUrl": "http://img.thevillages.com/Attachments/Unit/09-2017/Antrim%20Dells_1.jpg",
     "photos": [
       {
         "id": 0,
@@ -260,49 +270,51 @@
     ],
     "webUrl": "http://www.google.com",
     "owner": {
-      "id": "60561199898d46581d593988",
-      "first": "Rosalyn",
-      "last": "Wilson"
+      "id": "605fcdc3ac168e02890f5ac5",
+      "first": "Deena",
+      "last": "Oneil"
     },
-    "contact": "rosalyn.wilson@daycore.us",
-    "shortDesc": "qui do excepteur sit exercitation elit",
-    "longDesc": "Pariatur ut tempor qui labore nisi laborum ex do. Esse cupidatat amet laboris labore pariatur tempor dolor esse. Minim officia laborum in aliquip irure ullamco aliquip esse exercitation ullamco excepteur minim nisi. Veniam non dolor fugiat incididunt cillum.",
+    "contact": "undefined",
+    "shortDesc": "et laborum veniam commodo laborum et",
+    "longDesc": "Nostrud eiusmod nulla culpa velit laborum in nisi deserunt ut eiusmod amet. Voluptate elit id fugiat eiusmod eiusmod fugiat pariatur dolore commodo anim. Cillum qui exercitation reprehenderit commodo laborum commodo. Elit exercitation est cillum ad sint quis ea adipisicing excepteur. Duis quis commodo ex cupidatat aliqua et pariatur deserunt commodo et.",
     "keywords": [
-      "veniam",
+      "nisi",
+      "adipisicing",
       "ullamco",
-      "officia",
-      "exercitation",
-      "adipisicing"
+      "consequat",
+      "non"
     ],
-    "city": "Rivereno",
-    "state": "Tennessee",
-    "address": "303 Metropolitan Avenue, Rivereno, Tennessee, 4483",
-    "latitude": "-21.802844",
-    "longitude": "-127.53585",
+    "city": "Graball",
+    "state": "Hawaii",
+    "address": "100 North Beach Blvd, North Myrtle Beach, SC 21003",
+    "latitude": "-18.899567",
+    "longitude": "161.051899",
     "attendees": [
       {
         "id": 0,
-        "name": "Goodwin Lindsey"
+        "name": "Britt Mccarty"
       },
       {
         "id": 1,
-        "name": "Bruce Murray"
+        "name": "Wanda Short"
       },
       {
         "id": 2,
-        "name": "Hoover Patrick"
+        "name": "Wells Crane"
       }
     ]
   },
   {
-    "id": "60561199aa87b0b0dcd88497",
+    "id": "605fcdc39e0ade814eb9b0a8",
     "index": 5,
-    "guid": "8d2043fb-cbd5-401a-82c5-f2f6602d8dd4",
-    "time": "Friday, April 2, 2021 9:40 AM",
-    "recurrance": "weekly",
-    "endDate": "Friday, November 26, 2021 12:37 PM",
+    "guid": "191ec461-e737-420e-93f9-ff9e043e7160",
+    "time": "2021-03-31T05:30:26+00:00",
+    "recurrance": "monthly",
+    "duration": "30 minutes",
+    "cost": "$4.00 per hour",
+    "endDate": "2022-03-29T04:14:59+00:00",
     "isActive": true,
-    "photoUrl": "http://img.thevillages.com/Attachments/Unit/09-2017/Antrim Dells_1.jpg",
+    "photoUrl": "http://img.thevillages.com/Attachments/CommLease/01-2017/771%20-%20ABM.jpg",
     "photos": [
       {
         "id": 0,
@@ -319,49 +331,51 @@
     ],
     "webUrl": "http://www.google.com",
     "owner": {
-      "id": "60561199d01a54cd74a47b68",
-      "first": "Drake",
-      "last": "Stevenson"
+      "id": "605fcdc3ad6acc65a4b81a96",
+      "first": "Quinn",
+      "last": "Delaney"
     },
-    "contact": "drake.stevenson@paragonia.co.uk",
-    "shortDesc": "ex duis exercitation consectetur culpa adipisicing",
-    "longDesc": "Ad enim ad consectetur ipsum. Sit labore cupidatat consequat dolore eu deserunt proident. Consequat est commodo voluptate ex tempor.",
+    "contact": "undefined",
+    "shortDesc": "adipisicing eiusmod consequat ipsum ullamco consequat",
+    "longDesc": "Adipisicing sunt in consequat adipisicing voluptate aliquip occaecat nisi cupidatat quis deserunt elit. Proident velit excepteur id magna ullamco ullamco dolore. Dolore veniam id consectetur deserunt dolor fugiat veniam ut ut laboris mollit aliquip. Exercitation culpa pariatur consectetur laboris laboris. Nisi do ea nisi consectetur duis.",
     "keywords": [
-      "occaecat",
-      "ex",
-      "aute",
-      "ad",
+      "aliquip",
+      "laborum",
+      "velit",
+      "incididunt",
       "incididunt"
     ],
-    "city": "Blodgett",
-    "state": "Wisconsin",
-    "address": "855 Cortelyou Road, Blodgett, Wisconsin, 5553",
-    "latitude": "-87.159889",
-    "longitude": "-23.219262",
+    "city": "Jacumba",
+    "state": "Iowa",
+    "address": "100 North Beach Blvd, North Myrtle Beach, SC 21003",
+    "latitude": "-51.288124",
+    "longitude": "77.151034",
     "attendees": [
       {
         "id": 0,
-        "name": "Joanna Rogers"
+        "name": "Palmer Simpson"
       },
       {
         "id": 1,
-        "name": "House Chandler"
+        "name": "Brady Velasquez"
       },
       {
         "id": 2,
-        "name": "Jaclyn Odom"
+        "name": "Rivas Bright"
       }
     ]
   },
   {
-    "id": "605611993c203d579e1e8626",
+    "id": "605fcdc30bcb2a2f00f09c7a",
     "index": 6,
-    "guid": "40ff9460-dfe2-4efb-93b3-a4f480cb949b",
-    "time": "Saturday, April 10, 2021 12:56 PM",
-    "recurrance": "weekly",
-    "endDate": "Sunday, December 25, 2022 10:07 PM",
+    "guid": "05cd8fd7-b6ef-4106-a74a-89c701a28d2a",
+    "time": "2021-04-08T21:43:04+00:00",
+    "recurrance": "once",
+    "duration": "1 hours",
+    "cost": "$4.00 per hour",
+    "endDate": "2022-12-06T07:22:10+00:00",
     "isActive": false,
-    "photoUrl": "http://img.thevillages.com/Attachments/CommLease/01-2017/771%20-%20ABM.jpg",
+    "photoUrl": "http://img.thevillages.com/Attachments/Unit/09-2017/Dunedin%20Pool_1.jpg",
     "photos": [
       {
         "id": 0,
@@ -378,49 +392,51 @@
     ],
     "webUrl": "http://www.google.com",
     "owner": {
-      "id": "6056119969ef17d581cfc4d4",
-      "first": "Fleming",
-      "last": "Banks"
+      "id": "605fcdc39d4bfdce896f17d7",
+      "first": "Jami",
+      "last": "Oneal"
     },
-    "contact": "fleming.banks@icology.net",
-    "shortDesc": "eiusmod labore officia eu nulla sint",
-    "longDesc": "Lorem nisi laboris ex laborum elit. Mollit officia reprehenderit ullamco magna occaecat incididunt id id incididunt consequat. Mollit eu id culpa et eu. Et nulla in irure quis magna exercitation consectetur ea.",
+    "contact": "undefined",
+    "shortDesc": "anim nulla irure proident non sit",
+    "longDesc": "Exercitation amet et cillum eiusmod. Irure anim elit labore est incididunt nostrud fugiat cupidatat minim est dolore consectetur in sit. Labore sint anim cillum excepteur sit aliqua nisi. Aliquip consectetur excepteur id laboris est. Cupidatat labore dolore ut dolore tempor duis.",
     "keywords": [
-      "tempor",
-      "elit",
-      "labore",
-      "proident",
-      "commodo"
+      "qui",
+      "ad",
+      "duis",
+      "nulla",
+      "qui"
     ],
-    "city": "Nicholson",
+    "city": "Kent",
     "state": "American Samoa",
-    "address": "503 Seaview Court, Nicholson, American Samoa, 8976",
-    "latitude": "59.534491",
-    "longitude": "-86.646609",
+    "address": "100 North Beach Blvd, North Myrtle Beach, SC 21003",
+    "latitude": "62.173085",
+    "longitude": "-139.268529",
     "attendees": [
       {
         "id": 0,
-        "name": "Phillips Le"
+        "name": "Johns Banks"
       },
       {
         "id": 1,
-        "name": "Sheree Hogan"
+        "name": "Gates Merrill"
       },
       {
         "id": 2,
-        "name": "Leanne Combs"
+        "name": "Giles Booth"
       }
     ]
   },
   {
-    "id": "605611993b8a9e622d2a92f2",
+    "id": "605fcdc320acb6674d2544d2",
     "index": 7,
-    "guid": "9fe3f49a-ddfe-42df-ad83-d6acedad869e",
-    "time": "Monday, April 5, 2021 2:16 PM",
-    "recurrance": "bi-weekly",
-    "endDate": "Sunday, December 25, 2022 11:24 AM",
+    "guid": "433f4180-551f-47a0-936b-d4d20c9657ba",
+    "time": "2021-04-11T13:32:20+00:00",
+    "recurrance": "monthly",
+    "duration": "60 minutes",
+    "cost": "$2.50 per person",
+    "endDate": "2022-07-13T19:10:51+00:00",
     "isActive": false,
-    "photoUrl": "http://img.thevillages.com/Attachments/Unit/09-2017/Alden Bungalows.jpg",
+    "photoUrl": "http://img.thevillages.com/Attachments/Unit/06-2017/Fenney%20Rec_2.jpg",
     "photos": [
       {
         "id": 0,
@@ -437,49 +453,51 @@
     ],
     "webUrl": "http://www.google.com",
     "owner": {
-      "id": "6056119992ebc8a045e07bc7",
-      "first": "Jenkins",
-      "last": "Osborne"
+      "id": "605fcdc3daa4eb0c7bb8046d",
+      "first": "Ginger",
+      "last": "Benjamin"
     },
-    "contact": "jenkins.osborne@acrodance.me",
-    "shortDesc": "dolor ut consequat magna qui culpa",
-    "longDesc": "Aute ipsum sit ut in incididunt incididunt. Amet sit laboris officia ullamco laborum ullamco sit dolor id. Sunt duis aliquip tempor mollit tempor ipsum ea. Sint quis esse fugiat laborum fugiat occaecat laborum magna reprehenderit amet veniam excepteur. Dolore non velit irure laboris esse. Ex cillum tempor dolor non nostrud id magna tempor non.",
+    "contact": "undefined",
+    "shortDesc": "velit aliqua laborum qui ut ipsum",
+    "longDesc": "Cillum cupidatat duis aliquip irure dolore do dolore ad minim qui. Minim elit et pariatur laborum proident dolore sit in commodo veniam minim consectetur voluptate. Consequat magna irure pariatur aliquip adipisicing et irure. Sint aliquip laborum nostrud laboris ea ea reprehenderit eu occaecat dolore esse pariatur.",
     "keywords": [
-      "et",
-      "quis",
-      "magna",
-      "consectetur",
-      "occaecat"
+      "irure",
+      "non",
+      "elit",
+      "deserunt",
+      "eu"
     ],
-    "city": "Shelby",
-    "state": "Arizona",
-    "address": "209 Kenilworth Place, Shelby, Arizona, 9354",
-    "latitude": "55.35706",
-    "longitude": "126.341986",
+    "city": "Harmon",
+    "state": "Michigan",
+    "address": "100 North Beach Blvd, North Myrtle Beach, SC 21003",
+    "latitude": "-24.94958",
+    "longitude": "166.277691",
     "attendees": [
       {
         "id": 0,
-        "name": "Mcconnell Hodges"
+        "name": "Lowery Caldwell"
       },
       {
         "id": 1,
-        "name": "Macias Neal"
+        "name": "Anita Suarez"
       },
       {
         "id": 2,
-        "name": "Marilyn Meyer"
+        "name": "Amanda Riggs"
       }
     ]
   },
   {
-    "id": "605611995da5de2371586684",
+    "id": "605fcdc39d003d62943d7e7d",
     "index": 8,
-    "guid": "5f6b6c77-9bef-44c2-aba4-559513e7644a",
-    "time": "Thursday, March 25, 2021 9:08 AM",
-    "recurrance": "weekly",
-    "endDate": "Friday, June 25, 2021 8:48 AM",
+    "guid": "bc9dd8f3-b43d-462c-9cc1-90816d8e2a7e",
+    "time": "2021-04-06T14:30:33+00:00",
+    "recurrance": "monthly",
+    "duration": "30 minutes",
+    "cost": "$4.00 per hour",
+    "endDate": "2022-07-23T06:19:33+00:00",
     "isActive": false,
-    "photoUrl": "http://img.thevillages.com/Attachments/CommLease/01-2017/771%20-%20ABM.jpg",
+    "photoUrl": "http://img.thevillages.com/Attachments/Unit/09-2017/Dunedin%20Pool_1.jpg",
     "photos": [
       {
         "id": 0,
@@ -496,49 +514,51 @@
     ],
     "webUrl": "http://www.google.com",
     "owner": {
-      "id": "605611994894c73cacf052a6",
-      "first": "Jana",
-      "last": "Randolph"
+      "id": "605fcdc34bd795812d305fd8",
+      "first": "Fowler",
+      "last": "Kelley"
     },
-    "contact": "jana.randolph@flexigen.biz",
-    "shortDesc": "fugiat sint mollit incididunt elit officia",
-    "longDesc": "Elit labore minim irure est ipsum et nulla. Laboris anim reprehenderit consequat est dolore mollit voluptate. Incididunt laborum nisi non ipsum eiusmod ipsum. Commodo id consectetur sunt duis non incididunt dolor ut aute nisi adipisicing magna id culpa.",
+    "contact": "undefined",
+    "shortDesc": "ad amet consectetur dolore in officia",
+    "longDesc": "Aliquip aute est officia aliqua magna tempor minim ea. Irure reprehenderit sunt excepteur cupidatat adipisicing ex voluptate proident pariatur elit nostrud voluptate. Eu adipisicing esse irure pariatur quis ullamco occaecat incididunt ipsum sint. Occaecat mollit culpa voluptate minim deserunt pariatur elit reprehenderit duis et ut consequat. Enim fugiat occaecat adipisicing non laboris cillum.",
     "keywords": [
-      "veniam",
-      "adipisicing",
-      "amet",
-      "tempor",
-      "occaecat"
+      "eiusmod",
+      "laboris",
+      "elit",
+      "anim",
+      "incididunt"
     ],
-    "city": "Coalmont",
-    "state": "Alabama",
-    "address": "245 Woodbine Street, Coalmont, Alabama, 4531",
-    "latitude": "34.966574",
-    "longitude": "-153.677239",
+    "city": "Dawn",
+    "state": "Oregon",
+    "address": "100 North Beach Blvd, North Myrtle Beach, SC 21003",
+    "latitude": "-74.452473",
+    "longitude": "79.164287",
     "attendees": [
       {
         "id": 0,
-        "name": "Baxter Burnett"
+        "name": "Tucker James"
       },
       {
         "id": 1,
-        "name": "Graciela Cherry"
+        "name": "Pearson Rivers"
       },
       {
         "id": 2,
-        "name": "Margo Whitfield"
+        "name": "Mcgowan Duke"
       }
     ]
   },
   {
-    "id": "60561199f1915c39c10616cc",
+    "id": "605fcdc3149a7fe82f0e64eb",
     "index": 9,
-    "guid": "fad60a9e-ef3e-4dd9-8b24-8a57813b2431",
-    "time": "Saturday, March 20, 2021 4:47 PM",
-    "recurrance": "weekly",
-    "endDate": "Wednesday, January 26, 2022 8:18 AM",
+    "guid": "216d452a-199e-4220-a486-f8bc80b97582",
+    "time": "2021-04-12T09:20:56+00:00",
+    "recurrance": "daily",
+    "duration": "60 minutes",
+    "cost": "free",
+    "endDate": "2022-01-15T22:31:47+00:00",
     "isActive": true,
-    "photoUrl": "http://img.thevillages.com/Attachments/CommLease/01-2017/771%20-%20ABM.jpg",
+    "photoUrl": "http://img.thevillages.com/Attachments/Unit/09-2017/Dunedin%20Pool_1.jpg",
     "photos": [
       {
         "id": 0,
@@ -555,37 +575,37 @@
     ],
     "webUrl": "http://www.google.com",
     "owner": {
-      "id": "6056119914269c78b163f02e",
-      "first": "Lacey",
-      "last": "Goff"
+      "id": "605fcdc3ac4ecf929eb61827",
+      "first": "Jean",
+      "last": "Sellers"
     },
-    "contact": "lacey.goff@geoform.info",
-    "shortDesc": "occaecat duis aliquip sint consectetur eu",
-    "longDesc": "Mollit velit sint ex occaecat. Consequat aute adipisicing quis est excepteur excepteur. Veniam labore labore consequat non laborum incididunt. Lorem laborum commodo sunt ea esse consectetur Lorem est nisi ut tempor aliquip. Irure fugiat mollit anim consectetur sunt labore.",
+    "contact": "undefined",
+    "shortDesc": "culpa sint duis ea incididunt fugiat",
+    "longDesc": "Do minim laborum consectetur occaecat. Fugiat anim esse magna deserunt. Dolor eu reprehenderit do elit.",
     "keywords": [
-      "consequat",
-      "velit",
-      "tempor",
-      "fugiat",
-      "sint"
+      "officia",
+      "ea",
+      "non",
+      "eu",
+      "nulla"
     ],
-    "city": "Siglerville",
-    "state": "Nebraska",
-    "address": "620 Grace Court, Siglerville, Nebraska, 7327",
-    "latitude": "-10.325373",
-    "longitude": "44.972999",
+    "city": "Bloomington",
+    "state": "Wyoming",
+    "address": "100 North Beach Blvd, North Myrtle Beach, SC 21003",
+    "latitude": "-2.749301",
+    "longitude": "57.958936",
     "attendees": [
       {
         "id": 0,
-        "name": "Holder Boyer"
+        "name": "Celina York"
       },
       {
         "id": 1,
-        "name": "York Noel"
+        "name": "Davenport Stephenson"
       },
       {
         "id": 2,
-        "name": "Battle Vinson"
+        "name": "Natalie Cash"
       }
     ]
   }
