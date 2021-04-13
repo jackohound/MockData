@@ -1,23 +1,27 @@
 [
   {
-    'repeat(10, 10)': {
+    'repeat(50, 50)': {
       id: '{{objectId()}}',
       index: '{{index()}}',
       guid: '{{guid()}}',
+      category: '{{random("event", "entertainment", "activity")}}',
       time: '{{moment(this.date(new Date(2021, 3, 20), new Date())).format("LLLL")}}',
-      recurrance: '{{random("daily", "weekly", "bi-weekly")}}',
+      recurrance: '{{random("daily", "weekly", "monthly")}}',
+      interval: '{{integer(1,2)}}',
+      totalRecurrences: '{{integer(1,12)}}',
+      duration:  '{{random("60", "90", "120")}}',
       endDate: '{{moment(this.date(new Date(), new Date(2023, 0, 1))).format("LLLL")}}',
       isActive: '{{bool()}}',
-      photoUrl: '{{random("http://img.thevillages.com/Attachments/Unit/09-2017/Alden Bungalows.jpg", "http://img.thevillages.com/Attachments/Unit/05-2017/NRC%20-%20Amelia_1.jpg", "http://img.thevillages.com/Attachments/CommLease/01-2017/771%20-%20ABM.jpg", "http://img.thevillages.com/Attachments/Unit/09-2017/Antrim Dells_1.jpg")}}',
+      photoUrl: '{{random("https://img.thevillages.com/Attachments/Unit/12-2016/CC%20-%20Palmer%20Legends_2.jpg", "https://img.thevillages.com/Attachments/Unit/05-2017/NRC%20-%20Sabal%20Chase_2.jpg", "https://img.thevillages.com/Attachments/Unit/12-2016/Soaring%20Eagle%20Softball.jpg", "https://img.thevillages.com/Attachments/CommLease/11-2016/ST%20-%20Southern%20Trace%20Cleaners.JPG", "https://img.thevillages.com/Attachments/CommLease/12-2016/BW%20-%20Spice%20&%20Tea_1.jpg", "https://img.thevillages.com/Attachments/CommLease/01-2017/WVLG.jpg", "https://img.thevillages.com/Attachments/Unit/01-2017/Rohan%20Rec_2.jpg", "https://img.thevillages.com/Attachments/Unit/12-2016/CC%20-%20Hemmingways_3.jpg","https://img.thevillages.com/Attachments/Unit/09-2017/Alden Bungalows.jpg", "https://img.thevillages.com/Attachments/Unit/05-2017/NRC%20-%20Amelia_1.jpg", "http://img.thevillages.com/Attachments/CommLease/01-2017/771%20-%20ABM.jpg", "http://img.thevillages.com/Attachments/Unit/09-2017/Antrim Dells_1.jpg")}}',
       photos: [
         {
           'repeat(3)': {
             id: '{{index()}}',
-            photoUrl: 'http://placehold.it/32x32',
+            photoUrl: '{{random("https://img.thevillages.com/Attachments/Unit/12-2016/CC%20-%20Palmer%20Legends_2.jpg", "https://img.thevillages.com/Attachments/Unit/05-2017/NRC%20-%20Sabal%20Chase_2.jpg", "https://img.thevillages.com/Attachments/Unit/12-2016/Soaring%20Eagle%20Softball.jpg", "https://img.thevillages.com/Attachments/CommLease/11-2016/ST%20-%20Southern%20Trace%20Cleaners.JPG", "https://img.thevillages.com/Attachments/CommLease/12-2016/BW%20-%20Spice%20&%20Tea_1.jpg", "https://img.thevillages.com/Attachments/CommLease/01-2017/WVLG.jpg", "https://img.thevillages.com/Attachments/Unit/01-2017/Rohan%20Rec_2.jpg", "https://img.thevillages.com/Attachments/Unit/12-2016/CC%20-%20Hemmingways_3.jpg","https://img.thevillages.com/Attachments/Unit/09-2017/Alden Bungalows.jpg", "https://img.thevillages.com/Attachments/Unit/05-2017/NRC%20-%20Amelia_1.jpg", "http://img.thevillages.com/Attachments/CommLease/01-2017/771%20-%20ABM.jpg", "http://img.thevillages.com/Attachments/Unit/09-2017/Antrim Dells_1.jpg")}}',
           }
        }
       ],
-      webUrl: 'http://www.google.com',
+      webUrl: '{{random("http://www.google.com", "https://www.qualcomm.com", "https://www.amazon.com")}}',
       owner: {
         id: '{{objectId()}}',
         first: '{{firstName()}}',
@@ -26,6 +30,7 @@
       contact(tags) {
         return `${this.owner.first}.${this.owner.last}@${tags.company()}${tags.domainZone()}`.toLowerCase();
       },
+      phone: '+1 {{phone()}}',
       shortDesc: '{{lorem(6, "words")}}',
       longDesc: '{{lorem(1, "paragraphs")}}',
       keywords: [
@@ -35,9 +40,7 @@
       ],
       city: '{{city()}}',
       state: '{{state()}}',
-      address(tags) { 
-        return `${tags.integer(100, 999)} ${tags.street()}, ${this.city}, ${this.state}, ${tags.integer(100, 10000)}`;
-                    },
+      address: '{{integer(100, 999)}} {{street()}}, {{city()}}, {{state()}}, {{integer(100, 10000)}}',
       latitude: '{{floating(-90.000001, 90)}}',
       longitude: '{{floating(-180.000001, 180)}}',
       attendees: [
